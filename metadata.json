@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Classic",
+  "description": "A complete, playable classic Ludo and 3D Saanp Seedhi (Snakes & Ladders) board game featuring 2, 3, and 4-player modes, Player vs Computer AI, Pass & Play with friends, 3D tilted board with physics, 3D dice, and rich sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
