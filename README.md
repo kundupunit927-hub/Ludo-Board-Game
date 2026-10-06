@@ -3,6 +3,9 @@
 <p align="center"> <strong>A modern, smooth and interactive Classic Ludo experience built with React, Vite and TypeScript.</strong> </p>
 
 <p align="center"> <a href="https://classic-ludo-game.ai.studio/">🎮 Play Game</a> · <a href="#-installation">Installation</a> · <a href="#-development">Development</a> </p>
+<img width="1055" height="1954" alt="1000041821" src="https://github.com/user-attachments/assets/577b23bc-b120-49ee-aa0d-990836a8c299" />
+<img width="1080" height="1401" alt="1000041820" src="https://github.com/user-attachments/assets/b1330079-af10-4189-b168-c261ba690811" />
+<img width="1037" height="1997" alt="1000041819" src="https://github.com/user-attachments/assets/36743945-cffd-43e6-9b04-46ed8c4719d4" />
 
 🎮 Overview
 
