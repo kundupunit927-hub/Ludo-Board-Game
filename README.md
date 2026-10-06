@@ -346,7 +346,10 @@ MIT License
 Contributions are welcome.
 
 Fork the repository.
-Create a feature branch.
+Create a feature branch.<img width="1055" height="1954" alt="1000041821" src="https://github.com/user-attachments/assets/1c0f98e7-53ab-4c60-8f95-2938f73948cf" />
+<img width="1080" height="1401" alt="1000041820" src="https://github.com/user-attachments/assets/ac8208bf-3aea-41cb-9a33-0eb9a656c016" />
+<img width="1037" height="1997" alt="1000041819" src="https://github.com/user-attachments/assets/ca897d06-db7f-465b-b96b-fb4f312f7a34" />
+
 git checkout -b feature/new-feature
 Make your changes.
 Run type checking.
